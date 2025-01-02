@@ -17,7 +17,7 @@ I'm passionate about AI, computer vision, and deep learning optimization.
 
 ---
 
-### Skills
+### 💻 Tech Stack
 
 #### Languages
 <div>

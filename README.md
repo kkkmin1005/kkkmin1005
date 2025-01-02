@@ -1,5 +1,5 @@
 ## Hello, I'm Kangmin Moon! 🚀
-
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=moonkangmin)](https://solved.ac/moonkangmin)
 I'm passionate about AI, computer vision, and deep learning optimization.
 
 ---
@@ -10,10 +10,7 @@ I'm passionate about AI, computer vision, and deep learning optimization.
 - Deep learning optimization
 - Computer vision research and applications
 - backend systems
-
-📈 PS  
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=moonkangmin)](https://solved.ac/moonkangmin)
-
+- 
 📂 Check out my work:
 - [🌐 Portfolio](https://fluoridated-cost-b3f.notion.site/Portfolio-28fa70799ad04b88b1d8d49876f45859)
 - [✍️ Developer Blog](https://velog.io/@moonkangmin/posts)

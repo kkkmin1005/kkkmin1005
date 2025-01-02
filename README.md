@@ -20,6 +20,14 @@ I'm passionate about AI, computer vision, and deep learning optimization.
 
 ---
 
+### 📊 GitHub Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkkmin1005&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkkmin1005&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+---
+
 ### 💻 Skills
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
@@ -42,5 +50,3 @@ I'm passionate about AI, computer vision, and deep learning optimization.
 ### Contact
 
 - 📧 Email: codemin1005@gamil.com  
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkkmin1005)](https://github.com/anuraghazra/github-readme-stats)

@@ -14,7 +14,7 @@ I'm passionate about AI, computer vision, and deep learning optimization.
 📂 Check out my work:
 - [🌐 Portfolio](https://fluoridated-cost-b3f.notion.site/Portfolio-28fa70799ad04b88b1d8d49876f45859)
 - [✍️ Developer Blog](https://velog.io/@moonkangmin/posts)
-- 
+
 🎯 BOJ Tier:  
 - [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=moonkangmin)](https://solved.ac/moonkangmin)
 

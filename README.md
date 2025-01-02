@@ -1,6 +1,6 @@
 ## Hello, I'm Kangmin Moon! 🚀
 
-I am passionate about computer vision and deep learning optimization.
+a developer passionate about AI, computer vision, and deep learning optimization.
 
 ---
 

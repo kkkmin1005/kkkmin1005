@@ -43,3 +43,4 @@ I'm passionate about AI, computer vision, and deep learning optimization.
 
 - 📧 Email: codemin1005@gamil.com  
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkkmin1005)](https://github.com/kkkmin1005/github-readme-stats)

@@ -1,5 +1,5 @@
 ## Hello, I'm Kangmin Moon! 🚀
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=moonkangmin)](https://solved.ac/moonkangmin)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=moonkangmin)](https://solved.ac/moonkangmin)  
 I'm passionate about AI, computer vision, and deep learning optimization.
 
 ---

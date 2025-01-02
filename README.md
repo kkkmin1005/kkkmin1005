@@ -47,4 +47,4 @@ I'm passionate about AI, computer vision, and deep learning optimization.
 
 ### Contact
 
-- 📧 Email: codemin1005@gamil.com  
+- 📧 Email: codemin1005@gmail.com  

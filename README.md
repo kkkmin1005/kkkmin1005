@@ -16,7 +16,7 @@ I'm passionate about AI, computer vision, and deep learning optimization.
 - [✍️ Developer Blog](https://velog.io/@moonkangmin/posts)
 - 
 🎯 BOJ Tier:  
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=moonkangmin)](https://solved.ac/moonkangmin)
+- [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=moonkangmin)](https://solved.ac/moonkangmin)
 
 ---
 

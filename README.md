@@ -20,12 +20,6 @@ I'm passionate about AI, computer vision, and deep learning optimization.
 
 ---
 
-### 📊 GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkkmin1005&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
----
-
 ### 💻 Skills
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
@@ -41,6 +35,12 @@ I'm passionate about AI, computer vision, and deep learning optimization.
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
+</div>
+
+---
+
+### 📊 GitHub Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkkmin1005&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ---

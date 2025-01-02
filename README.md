@@ -22,8 +22,6 @@ I'm passionate about AI, computer vision, and deep learning optimization.
 
 ### 📊 GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkkmin1005&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkkmin1005&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
 
 ---

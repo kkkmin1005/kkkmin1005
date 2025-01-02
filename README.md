@@ -34,3 +34,9 @@ I'm passionate about AI, computer vision, and deep learning optimization.
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
 </div>
 
+---
+
+### Contact
+
+- 📧 Email: codemin1005@gamil.com  
+

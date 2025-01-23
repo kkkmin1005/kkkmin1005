@@ -39,6 +39,13 @@ I'm passionate about AI, computer vision, and deep learning optimization.
 
 ---
 
+### 🏆Awards
+
+2024 쿠다 심화 컨퍼런스 - 최우수상
+2025 GDGoC Backya Hackathon - 장려상
+
+---
+
 ### 📊 GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkkmin1005&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </div>

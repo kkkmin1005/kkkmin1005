@@ -41,7 +41,7 @@ I'm passionate about AI, computer vision, and deep learning optimization.
 
 ### 🏆Awards
 
-2024 쿠다 심화 컨퍼런스 - 최우수상
+2024 쿠다 심화 컨퍼런스 - 최우수상  
 2025 GDGoC Backya Hackathon - 장려상
 
 ---
